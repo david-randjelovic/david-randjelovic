@@ -1,5 +1,3 @@
-# 👋 Hi, I'm David Randjelovic
-
 # 💫 About Me:
 🔭 Looking for new opportunities<br>🌱 Fast learner<br>🧹 Clean code lover
 
