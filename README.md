@@ -1,5 +1,15 @@
 # 💫 About Me:
-💼 Work history: I am a full stack web developer with over four years of experience in the IT sector. Initially, my career began as a junior front-end developer, where my responsibilities included developing functional front-end features, connecting front and back ends through REST APIs, and implementing third-party APIs like Google Maps and Google Places into our applications. Within around two years, through dedication and the mentorship of a colleague from the backend team, I transitioned into a full stack web development role. Meanwhile I also mastered creating end-to-end Python tests in order to ensure stability of our software solutions.<br><br>📚 My education: I developed an interest in coding during elementary school, learning video game development through YouTube tutorials and creating my first game with Game Maker Studio. I participated in events like the Global Game Jam in Technical High School, where I also took web development classes covering HTML, CSS, and JavaScript. This led me to pursue further education at ITAcademy, where I received a web designer certification and improved my skills in JS, HTML, and CSS. After ITAcademy, I secured an internship that transitioned into my first job as an Angular developer.<br><br>❓ What am I currently doing on GitHub: For my past and current roles, I've primarily used Bitbucket. However, I'm planning to update my GitHub profile in order to present my journey better. I hope that I'll be able to dedicate some time to developing a few repositories soon.
+Software engineer with ~5 years of experience in the software industry.
+Last few years, I have been working primarily as a Software Development Advisor, 
+collaborating closely with developers, product 
+managers, and relevant stakeholders.
+
+I also possess extensive experience as a Software 
+Engineer / Team Lead, mostly focused (but not limited to) 
+Angular and JavaScript technologies.
+
+I have worked on applications in various domains such as
+solar panel industry, government, finance, hospitality industry etc...
 
 
 ## 🌐 Socials:
